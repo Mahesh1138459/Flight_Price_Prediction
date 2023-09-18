@@ -47,7 +47,6 @@ def predict():
         # Total Stops
         Total_stops = int(request.form["stops"])
         # print(Total_stops)
-dfdfdf
         # Airline
         # AIR ASIA = 0 (not in column)
         airline=request.form['airline']
